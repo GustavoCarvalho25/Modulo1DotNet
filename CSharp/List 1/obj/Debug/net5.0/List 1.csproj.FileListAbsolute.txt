@@ -1,0 +1,16 @@
+E:\Generation\Modulo1DotNet\CSharp\List 1\bin\Debug\net5.0\List 1.exe
+E:\Generation\Modulo1DotNet\CSharp\List 1\bin\Debug\net5.0\List 1.deps.json
+E:\Generation\Modulo1DotNet\CSharp\List 1\bin\Debug\net5.0\List 1.runtimeconfig.json
+E:\Generation\Modulo1DotNet\CSharp\List 1\bin\Debug\net5.0\List 1.runtimeconfig.dev.json
+E:\Generation\Modulo1DotNet\CSharp\List 1\bin\Debug\net5.0\List 1.dll
+E:\Generation\Modulo1DotNet\CSharp\List 1\bin\Debug\net5.0\ref\List 1.dll
+E:\Generation\Modulo1DotNet\CSharp\List 1\bin\Debug\net5.0\List 1.pdb
+E:\Generation\Modulo1DotNet\CSharp\List 1\obj\Debug\net5.0\List 1.csproj.AssemblyReference.cache
+E:\Generation\Modulo1DotNet\CSharp\List 1\obj\Debug\net5.0\List 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Generation\Modulo1DotNet\CSharp\List 1\obj\Debug\net5.0\List 1.AssemblyInfoInputs.cache
+E:\Generation\Modulo1DotNet\CSharp\List 1\obj\Debug\net5.0\List 1.AssemblyInfo.cs
+E:\Generation\Modulo1DotNet\CSharp\List 1\obj\Debug\net5.0\List 1.csproj.CoreCompileInputs.cache
+E:\Generation\Modulo1DotNet\CSharp\List 1\obj\Debug\net5.0\List 1.dll
+E:\Generation\Modulo1DotNet\CSharp\List 1\obj\Debug\net5.0\ref\List 1.dll
+E:\Generation\Modulo1DotNet\CSharp\List 1\obj\Debug\net5.0\List 1.pdb
+E:\Generation\Modulo1DotNet\CSharp\List 1\obj\Debug\net5.0\List 1.genruntimeconfig.cache
