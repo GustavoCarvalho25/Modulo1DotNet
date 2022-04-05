@@ -1,0 +1,16 @@
+E:\Generation\Modulo1DotNet\CSharp\Ex aula 5\bin\Debug\net5.0\Ex aula 5.exe
+E:\Generation\Modulo1DotNet\CSharp\Ex aula 5\bin\Debug\net5.0\Ex aula 5.deps.json
+E:\Generation\Modulo1DotNet\CSharp\Ex aula 5\bin\Debug\net5.0\Ex aula 5.runtimeconfig.json
+E:\Generation\Modulo1DotNet\CSharp\Ex aula 5\bin\Debug\net5.0\Ex aula 5.runtimeconfig.dev.json
+E:\Generation\Modulo1DotNet\CSharp\Ex aula 5\bin\Debug\net5.0\Ex aula 5.dll
+E:\Generation\Modulo1DotNet\CSharp\Ex aula 5\bin\Debug\net5.0\ref\Ex aula 5.dll
+E:\Generation\Modulo1DotNet\CSharp\Ex aula 5\bin\Debug\net5.0\Ex aula 5.pdb
+E:\Generation\Modulo1DotNet\CSharp\Ex aula 5\obj\Debug\net5.0\Ex aula 5.csproj.AssemblyReference.cache
+E:\Generation\Modulo1DotNet\CSharp\Ex aula 5\obj\Debug\net5.0\Ex aula 5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Generation\Modulo1DotNet\CSharp\Ex aula 5\obj\Debug\net5.0\Ex aula 5.AssemblyInfoInputs.cache
+E:\Generation\Modulo1DotNet\CSharp\Ex aula 5\obj\Debug\net5.0\Ex aula 5.AssemblyInfo.cs
+E:\Generation\Modulo1DotNet\CSharp\Ex aula 5\obj\Debug\net5.0\Ex aula 5.csproj.CoreCompileInputs.cache
+E:\Generation\Modulo1DotNet\CSharp\Ex aula 5\obj\Debug\net5.0\Ex aula 5.dll
+E:\Generation\Modulo1DotNet\CSharp\Ex aula 5\obj\Debug\net5.0\ref\Ex aula 5.dll
+E:\Generation\Modulo1DotNet\CSharp\Ex aula 5\obj\Debug\net5.0\Ex aula 5.pdb
+E:\Generation\Modulo1DotNet\CSharp\Ex aula 5\obj\Debug\net5.0\Ex aula 5.genruntimeconfig.cache
