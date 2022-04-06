@@ -1,0 +1,16 @@
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 6 - VS\Aula6 - Loops\bin\Debug\net5.0\Aula6 - Loops.exe
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 6 - VS\Aula6 - Loops\bin\Debug\net5.0\Aula6 - Loops.deps.json
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 6 - VS\Aula6 - Loops\bin\Debug\net5.0\Aula6 - Loops.runtimeconfig.json
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 6 - VS\Aula6 - Loops\bin\Debug\net5.0\Aula6 - Loops.runtimeconfig.dev.json
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 6 - VS\Aula6 - Loops\bin\Debug\net5.0\Aula6 - Loops.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 6 - VS\Aula6 - Loops\bin\Debug\net5.0\ref\Aula6 - Loops.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 6 - VS\Aula6 - Loops\bin\Debug\net5.0\Aula6 - Loops.pdb
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 6 - VS\Aula6 - Loops\obj\Debug\net5.0\Aula6 - Loops.csproj.AssemblyReference.cache
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 6 - VS\Aula6 - Loops\obj\Debug\net5.0\Aula6 - Loops.GeneratedMSBuildEditorConfig.editorconfig
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 6 - VS\Aula6 - Loops\obj\Debug\net5.0\Aula6 - Loops.AssemblyInfoInputs.cache
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 6 - VS\Aula6 - Loops\obj\Debug\net5.0\Aula6 - Loops.AssemblyInfo.cs
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 6 - VS\Aula6 - Loops\obj\Debug\net5.0\Aula6 - Loops.csproj.CoreCompileInputs.cache
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 6 - VS\Aula6 - Loops\obj\Debug\net5.0\Aula6 - Loops.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 6 - VS\Aula6 - Loops\obj\Debug\net5.0\ref\Aula6 - Loops.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 6 - VS\Aula6 - Loops\obj\Debug\net5.0\Aula6 - Loops.pdb
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 6 - VS\Aula6 - Loops\obj\Debug\net5.0\Aula6 - Loops.genruntimeconfig.cache
