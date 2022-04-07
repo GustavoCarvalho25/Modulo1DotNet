@@ -1,0 +1,16 @@
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - Calculator - VSC\bin\Debug\net5.0\Exercise class 7 - Calculator - VSC.exe
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - Calculator - VSC\bin\Debug\net5.0\Exercise class 7 - Calculator - VSC.deps.json
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - Calculator - VSC\bin\Debug\net5.0\Exercise class 7 - Calculator - VSC.runtimeconfig.json
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - Calculator - VSC\bin\Debug\net5.0\Exercise class 7 - Calculator - VSC.runtimeconfig.dev.json
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - Calculator - VSC\bin\Debug\net5.0\Exercise class 7 - Calculator - VSC.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - Calculator - VSC\bin\Debug\net5.0\ref\Exercise class 7 - Calculator - VSC.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - Calculator - VSC\bin\Debug\net5.0\Exercise class 7 - Calculator - VSC.pdb
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - Calculator - VSC\obj\Debug\net5.0\Exercise class 7 - Calculator - VSC.csproj.AssemblyReference.cache
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - Calculator - VSC\obj\Debug\net5.0\Exercise class 7 - Calculator - VSC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - Calculator - VSC\obj\Debug\net5.0\Exercise class 7 - Calculator - VSC.AssemblyInfoInputs.cache
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - Calculator - VSC\obj\Debug\net5.0\Exercise class 7 - Calculator - VSC.AssemblyInfo.cs
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - Calculator - VSC\obj\Debug\net5.0\Exercise class 7 - Calculator - VSC.csproj.CoreCompileInputs.cache
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - Calculator - VSC\obj\Debug\net5.0\Exercise class 7 - Calculator - VSC.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - Calculator - VSC\obj\Debug\net5.0\ref\Exercise class 7 - Calculator - VSC.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - Calculator - VSC\obj\Debug\net5.0\Exercise class 7 - Calculator - VSC.pdb
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - Calculator - VSC\obj\Debug\net5.0\Exercise class 7 - Calculator - VSC.genruntimeconfig.cache

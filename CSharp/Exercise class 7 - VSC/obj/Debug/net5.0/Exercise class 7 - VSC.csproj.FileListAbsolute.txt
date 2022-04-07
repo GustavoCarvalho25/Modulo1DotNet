@@ -1,0 +1,16 @@
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - VSC\bin\Debug\net5.0\Exercise class 7 - VSC.exe
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - VSC\bin\Debug\net5.0\Exercise class 7 - VSC.deps.json
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - VSC\bin\Debug\net5.0\Exercise class 7 - VSC.runtimeconfig.json
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - VSC\bin\Debug\net5.0\Exercise class 7 - VSC.runtimeconfig.dev.json
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - VSC\bin\Debug\net5.0\Exercise class 7 - VSC.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - VSC\bin\Debug\net5.0\ref\Exercise class 7 - VSC.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - VSC\bin\Debug\net5.0\Exercise class 7 - VSC.pdb
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - VSC\obj\Debug\net5.0\Exercise class 7 - VSC.csproj.AssemblyReference.cache
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - VSC\obj\Debug\net5.0\Exercise class 7 - VSC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - VSC\obj\Debug\net5.0\Exercise class 7 - VSC.AssemblyInfoInputs.cache
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - VSC\obj\Debug\net5.0\Exercise class 7 - VSC.AssemblyInfo.cs
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - VSC\obj\Debug\net5.0\Exercise class 7 - VSC.csproj.CoreCompileInputs.cache
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - VSC\obj\Debug\net5.0\Exercise class 7 - VSC.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - VSC\obj\Debug\net5.0\ref\Exercise class 7 - VSC.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - VSC\obj\Debug\net5.0\Exercise class 7 - VSC.pdb
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 7 - VSC\obj\Debug\net5.0\Exercise class 7 - VSC.genruntimeconfig.cache
