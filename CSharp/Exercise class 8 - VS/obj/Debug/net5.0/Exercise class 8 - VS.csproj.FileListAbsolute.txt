@@ -1,0 +1,16 @@
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 8 - VS\bin\Debug\net5.0\Exercise class 8 - VS.exe
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 8 - VS\bin\Debug\net5.0\Exercise class 8 - VS.deps.json
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 8 - VS\bin\Debug\net5.0\Exercise class 8 - VS.runtimeconfig.json
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 8 - VS\bin\Debug\net5.0\Exercise class 8 - VS.runtimeconfig.dev.json
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 8 - VS\bin\Debug\net5.0\Exercise class 8 - VS.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 8 - VS\bin\Debug\net5.0\ref\Exercise class 8 - VS.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 8 - VS\bin\Debug\net5.0\Exercise class 8 - VS.pdb
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 8 - VS\obj\Debug\net5.0\Exercise class 8 - VS.csproj.AssemblyReference.cache
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 8 - VS\obj\Debug\net5.0\Exercise class 8 - VS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 8 - VS\obj\Debug\net5.0\Exercise class 8 - VS.AssemblyInfoInputs.cache
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 8 - VS\obj\Debug\net5.0\Exercise class 8 - VS.AssemblyInfo.cs
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 8 - VS\obj\Debug\net5.0\Exercise class 8 - VS.csproj.CoreCompileInputs.cache
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 8 - VS\obj\Debug\net5.0\Exercise class 8 - VS.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 8 - VS\obj\Debug\net5.0\ref\Exercise class 8 - VS.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 8 - VS\obj\Debug\net5.0\Exercise class 8 - VS.pdb
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 8 - VS\obj\Debug\net5.0\Exercise class 8 - VS.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\Generation\Modulo1DotNet\CSharp\List 8\bin\Debug\net5.0\List 8.deps.json
+E:\Generation\Modulo1DotNet\CSharp\List 8\bin\Debug\net5.0\List 8.dll
+E:\Generation\Modulo1DotNet\CSharp\List 8\bin\Debug\net5.0\ref\List 8.dll
+E:\Generation\Modulo1DotNet\CSharp\List 8\bin\Debug\net5.0\List 8.pdb
+E:\Generation\Modulo1DotNet\CSharp\List 8\obj\Debug\net5.0\List 8.csproj.AssemblyReference.cache
+E:\Generation\Modulo1DotNet\CSharp\List 8\obj\Debug\net5.0\List 8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Generation\Modulo1DotNet\CSharp\List 8\obj\Debug\net5.0\List 8.AssemblyInfoInputs.cache
+E:\Generation\Modulo1DotNet\CSharp\List 8\obj\Debug\net5.0\List 8.AssemblyInfo.cs
+E:\Generation\Modulo1DotNet\CSharp\List 8\obj\Debug\net5.0\List 8.csproj.CoreCompileInputs.cache
+E:\Generation\Modulo1DotNet\CSharp\List 8\obj\Debug\net5.0\List 8.dll
+E:\Generation\Modulo1DotNet\CSharp\List 8\obj\Debug\net5.0\ref\List 8.dll
+E:\Generation\Modulo1DotNet\CSharp\List 8\obj\Debug\net5.0\List 8.pdb

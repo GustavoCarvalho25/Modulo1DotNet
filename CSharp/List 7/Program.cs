@@ -12,14 +12,13 @@ namespace List_7
         {   
             Console.WriteLine("Aperte a tecla 's' para ligar a calculadora!");
 
-            
             if(Console.ReadKey().Key == ConsoleKey.S)
             {
                 while(Console.ReadKey().Key != ConsoleKey.S)
                 {   
                     Console.WriteLine("\nInsira o primeiro numero:");
                     num1 = int.Parse(Console.ReadLine());
-
+    
                     Console.WriteLine("\nQual operacao deseja? (+) (-) (*) (/)");
                     operador = Console.ReadLine();
 
