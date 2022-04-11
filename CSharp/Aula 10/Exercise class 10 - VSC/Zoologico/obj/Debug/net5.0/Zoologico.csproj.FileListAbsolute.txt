@@ -1,0 +1,16 @@
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 10 - VSC\Zoologico\obj\Debug\net5.0\Zoologico.csproj.AssemblyReference.cache
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 10 - VSC\Zoologico\obj\Debug\net5.0\Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 10 - VSC\Zoologico\obj\Debug\net5.0\Zoologico.AssemblyInfoInputs.cache
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 10 - VSC\Zoologico\obj\Debug\net5.0\Zoologico.AssemblyInfo.cs
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 10 - VSC\Zoologico\obj\Debug\net5.0\Zoologico.csproj.CoreCompileInputs.cache
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 10 - VSC\Zoologico\bin\Debug\net5.0\Zoologico.exe
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 10 - VSC\Zoologico\bin\Debug\net5.0\Zoologico.deps.json
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 10 - VSC\Zoologico\bin\Debug\net5.0\Zoologico.runtimeconfig.json
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 10 - VSC\Zoologico\bin\Debug\net5.0\Zoologico.runtimeconfig.dev.json
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 10 - VSC\Zoologico\bin\Debug\net5.0\Zoologico.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 10 - VSC\Zoologico\bin\Debug\net5.0\ref\Zoologico.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 10 - VSC\Zoologico\bin\Debug\net5.0\Zoologico.pdb
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 10 - VSC\Zoologico\obj\Debug\net5.0\Zoologico.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 10 - VSC\Zoologico\obj\Debug\net5.0\ref\Zoologico.dll
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 10 - VSC\Zoologico\obj\Debug\net5.0\Zoologico.pdb
+E:\Generation\Modulo1DotNet\CSharp\Exercise class 10 - VSC\Zoologico\obj\Debug\net5.0\Zoologico.genruntimeconfig.cache
