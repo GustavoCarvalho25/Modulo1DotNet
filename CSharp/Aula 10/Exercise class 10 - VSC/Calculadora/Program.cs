@@ -7,7 +7,7 @@ namespace Calculadora
     {
         static void Main(string[] args)
         {
-            Calc calculadora = new Calc();
+            IOperacoes calculadora = new Calc();
 
             Console.WriteLine($"Soma: {calculadora.Somar(1, 2)}");
             Console.WriteLine($"Subtração: {calculadora.Subtrair(1, 2)}");
